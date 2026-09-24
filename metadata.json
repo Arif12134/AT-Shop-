@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix AT Shop",
+  "description": "A premium, secure, and fully responsive e-commerce platform built with React, TypeScript, and robust Firebase cloud architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
